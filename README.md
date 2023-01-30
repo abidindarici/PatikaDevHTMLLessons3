@@ -1,2 +1,2 @@
-# PatikaDevHTMLLessons3
-Patika.dev HTML Lessons 2
+# www.patika.dev---html-bolum-sonu
+ bölüm sonu
